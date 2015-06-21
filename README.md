@@ -1,5 +1,5 @@
 ### Programming Assignment 2
-## Andrea Carolina Buitrago
+Andrea Carolina Buitrago
 
 
 ### Introduction
